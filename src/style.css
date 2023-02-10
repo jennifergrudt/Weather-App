@@ -86,3 +86,11 @@ h2 {
 .fa-cloud-sun-rain {
   color: #6bcdff;
 }
+.sourceLink {
+  text-align: center;
+  position: relative;
+  bottom: 100px;
+}
+.clickSourceLink {
+  text-decoration: none;
+}
